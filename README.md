@@ -41,9 +41,3 @@ Prompts define the role, task, context, output format, and constraints. Constrai
 4. Research: request a topic overview; check that it does not fabricate citations.
 5. Chatbot: ask a policy question with limited context; check that uncertainty is flagged.
 
-## Submission checklist
-- [ ] Upload `index.html`
-- [ ] Include this README
-- [ ] Test all five tabs and copy/download buttons
-- [ ] Add screenshots of the working app if required
-- [ ] Explain the prototype limitation and ethical safeguards in the submission
